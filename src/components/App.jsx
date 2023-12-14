@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      Test UPD GH Pages
+      Test upd GH Pages
     </div>
   );
 };
